@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I am Eboh Onosetale a software developer focused on web development
 
 <!--
 **Emperorcray/Emperorcray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
