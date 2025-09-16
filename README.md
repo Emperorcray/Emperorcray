@@ -5,16 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emperorcray" alt="emperorcray" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/cray77786" target="blank"><img src="https://img.shields.io/twitter/follow/cray77786?logo=twitter&style=for-the-badge" alt="cray77786" /></a> </p>
 
 - 🔭 I’m currently working on [Luxel-Interiors](https://github.com/Emperorcray/Luxel-interiors)
 
 - 🌱 I’m currently learning **Django, React**
 
+- 👨‍💻 All of my projects are available at [https://emperorcray.github.io/onosewebdev](https://emperorcray.github.io/onosewebdev)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/onosetaleeboh](https://www.linkedin.com/in/onosetaleeboh)
+
 - 📫 How to reach me **onosetaleeboh2006@gmail.com**
 
-<h3 align="left">Connect with me: </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/cray77786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cray77786" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/onosetaleeboh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onosetaleeboh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
