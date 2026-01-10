@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eboh Onosetale</h1>
-<h3 align="center">A passionate web developer from Nigeria</h3>
+<h3 align="center">An aspiaring developer building full stack applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emperorcray&label=Profile%20views&color=0e75b6&style=flat" alt="emperorcray" /> </p>
 
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cray77786" target="blank"><img src="https://img.shields.io/twitter/follow/cray77786?logo=twitter&style=for-the-badge" alt="cray77786" /></a> </p>
 
-- 🔭 I’m currently working on [Luxel-Interiors](https://github.com/Emperorcray/Luxel-interiors)
-
-- 🌱 I’m currently learning **Django, React**
+- 🌱 I’m currently learning **React, NodeJS and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://emperorcray.github.io/onosewebdev](https://emperorcray.github.io/onosewebdev)
 
